@@ -1,0 +1,9 @@
+[submodule "checkout"]
+	path = checkout
+	url = https://github.com/seugirdur/frontend-fxcheckout.git
+[submodule "api"]
+	path = api
+	url = https://github.com/seugirdur/fxcheckout-api
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/seugirdur/fx-dashboard
