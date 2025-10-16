@@ -14,7 +14,8 @@
 
 [Overview](#-overview) • [Features](#-key-features) • [Architecture](#-project-architecture) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Deployment](#-deployment)
 
-![FX Bank Dashboard](screenshots/dashboard.png)
+<img width="2870" height="1618" alt="Screenshot 2023-07-25 154156" src="https://github.com/user-attachments/assets/b95d2dbf-ab9b-43ff-99c4-a1e83d4c5f71" />
+
 
 </div>
 
