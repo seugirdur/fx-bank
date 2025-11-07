@@ -26,7 +26,7 @@
 **FX Bank Financial Management System** is a comprehensive banking solution developed to optimize client relations and financial transaction tracking. The platform consists of three main modules: a powerful API backend, a customized checkout page, and an intuitive business dashboard, all designed to improve operational efficiency and provide real-time financial insights.
 
 ### Project Timeline
-**January 2023 - August 2023 (8 months)**
+**January 2022 - September 2022 and January 2023 - August 2023 (18 months)**
 **Location:** São José dos Campos, São Paulo, Brasil (Hybrid)
 **Role:** Systems Developer - Full-time
 
@@ -568,7 +568,7 @@ For questions or support regarding this project:
 
 ## 📈 Project Stats
 
-- **Development Period**: 1,5 months (Jan 2022 - Sep 2022) (Jan 2023 - Aug 2023)
+- **Development Period**: 18 months (Jan 2022 - Sep 2022) (Jan 2023 - Aug 2023)
 - **Team Size**: Full-stack solo developer
 - **Lines of Code**: ~50,000+
 - **Modules**: 3 (API, Dashboard, Checkout)
