@@ -568,7 +568,7 @@ For questions or support regarding this project:
 
 ## 📈 Project Stats
 
-- **Development Period**: 8 months (Jan 2023 - Aug 2023)
+- **Development Period**: 1,5 months (Jan 2022 - Sep 2022) (Jan 2023 - Aug 2023)
 - **Team Size**: Full-stack solo developer
 - **Lines of Code**: ~50,000+
 - **Modules**: 3 (API, Dashboard, Checkout)
